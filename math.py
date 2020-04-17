@@ -1,4 +1,6 @@
 # math.py
+pi = 3.14
+
 def cool_add(x, y, z):
     return x + y + z
 
